@@ -1,9 +1,3 @@
-from appwrite.client import Client
-from appwrite.services.databases import Databases
-from appwrite.query import Query
-from urllib.parse import parse_qs
-import os
-
 html = '''<!doctype html>
 <html lang="en">
   <head>
