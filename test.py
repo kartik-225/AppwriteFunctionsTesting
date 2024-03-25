@@ -2,15 +2,10 @@ html = '''<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Contact Form</title>
+    <title>Appwrite Functions Test</title>
   </head>
   <body>
-    <form action="/" method="POST">
-      <input type="text" id="name" name="name" placeholder="Name" required>
-      <input type="email" id="email" name="email" placeholder="Email" required>
-      <textarea id="content" name="content" placeholder="Message" required></textarea>
-      <button type="submit">Submit</button>
-    </form>
+    <h1>Worked 🥳</h1>
   </body>
 </html>
 '''
